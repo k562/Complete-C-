@@ -1,0 +1,13 @@
+D:\code practice\C#\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.exe
+D:\code practice\C#\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.deps.json
+D:\code practice\C#\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.runtimeconfig.json
+D:\code practice\C#\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.runtimeconfig.dev.json
+D:\code practice\C#\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.dll
+D:\code practice\C#\Constructor2\bin\Debug\netcoreapp3.1\Constructor2.pdb
+D:\code practice\C#\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.csprojAssemblyReference.cache
+D:\code practice\C#\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.AssemblyInfoInputs.cache
+D:\code practice\C#\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.AssemblyInfo.cs
+D:\code practice\C#\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.csproj.CoreCompileInputs.cache
+D:\code practice\C#\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.dll
+D:\code practice\C#\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.pdb
+D:\code practice\C#\Constructor2\obj\Debug\netcoreapp3.1\Constructor2.genruntimeconfig.cache

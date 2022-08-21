@@ -1,0 +1,13 @@
+D:\code practice\C#\C_Sharppractice\bin\Debug\netcoreapp3.1\C_Sharppractice.exe
+D:\code practice\C#\C_Sharppractice\bin\Debug\netcoreapp3.1\C_Sharppractice.deps.json
+D:\code practice\C#\C_Sharppractice\bin\Debug\netcoreapp3.1\C_Sharppractice.runtimeconfig.json
+D:\code practice\C#\C_Sharppractice\bin\Debug\netcoreapp3.1\C_Sharppractice.runtimeconfig.dev.json
+D:\code practice\C#\C_Sharppractice\bin\Debug\netcoreapp3.1\C_Sharppractice.dll
+D:\code practice\C#\C_Sharppractice\bin\Debug\netcoreapp3.1\C_Sharppractice.pdb
+D:\code practice\C#\C_Sharppractice\obj\Debug\netcoreapp3.1\C_Sharppractice.AssemblyInfoInputs.cache
+D:\code practice\C#\C_Sharppractice\obj\Debug\netcoreapp3.1\C_Sharppractice.AssemblyInfo.cs
+D:\code practice\C#\C_Sharppractice\obj\Debug\netcoreapp3.1\C_Sharppractice.csproj.CoreCompileInputs.cache
+D:\code practice\C#\C_Sharppractice\obj\Debug\netcoreapp3.1\C_Sharppractice.dll
+D:\code practice\C#\C_Sharppractice\obj\Debug\netcoreapp3.1\C_Sharppractice.pdb
+D:\code practice\C#\C_Sharppractice\obj\Debug\netcoreapp3.1\C_Sharppractice.genruntimeconfig.cache
+D:\code practice\C#\C_Sharppractice\obj\Debug\netcoreapp3.1\C_Sharppractice.csprojAssemblyReference.cache
